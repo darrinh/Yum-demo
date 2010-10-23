@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
+<comps>
+        
+  <group>
+   <id>thematrix</id>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <display_order>1024</display_order>
+   <name>The Matrix</name>
+   <description></description>
+    <packagelist>
+      <packagereq type="mandatory">earth</packagereq>
+      <packagereq type="mandatory">eden</packagereq>
+      <packagereq type="mandatory">god</packagereq>
+      <packagereq type="mandatory">humans</packagereq>
+      <packagereq type="mandatory">universe</packagereq>
+    </packagelist>
+  </group>
+</comps>
